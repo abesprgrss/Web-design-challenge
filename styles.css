@@ -43,9 +43,11 @@ img {
     When you use the "auto" rule on both left and right margins, 
     your browser will do the math necessary to center a block element.
     */
-  margin-left: 30px;
-  margin-right: 30px;
-  margin-top: 30px;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
   /* Block display (more on this later) */
- 
 }
+
+
